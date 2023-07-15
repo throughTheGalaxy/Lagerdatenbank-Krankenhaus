@@ -1,26 +1,22 @@
-**Datenbanken_Projekt**
+# Datenbanken Projekt
 
 
 Backup von alle SQL Queries der Datenbanken Projekt des SoSe2023.
 
-**Concept and Use Case**
+## Concept and Use Case**
 
 
 ER Models and possible use case scenarios
 
-**Importing Data**
 
-
-Java programs and shell scripts for importing data from the Louvre website
-
-**PostgreSQL Queries**
+## PostgreSQL Queries
 
 
 Creation and importation queries for the database
 
-**Wichtige Links**
+## Wichtige Links
 
 
-Wikidata Toolkit
+[Wikidata Toolkit](https://www.mediawiki.org/wiki/Wikidata_Toolkit)
 
-PostgreSQL
+[PostgreSQL](https://www.postgresql.org/docs/)
