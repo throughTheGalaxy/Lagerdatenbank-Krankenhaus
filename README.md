@@ -22,4 +22,5 @@ Creation and importation queries for the database
 
 
 Wikidata Toolkit
+
 PostgreSQL
