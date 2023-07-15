@@ -3,7 +3,7 @@
 
 Backup von alle SQL Queries der Datenbanken Projekt des SoSe2023.
 
-## Concept and Use Case**
+## Concept and Use Case
 
 
 ER Models and possible use case scenarios
