@@ -1,2 +1,25 @@
-# Lagerdatenbank-Krankenhaus
-Project deals with the development of a database for a medical institution for the organization, storage and management of hospital inventory. The relevance of the project is related to the modeling of the database for a specific profession, where, in addition to the usual logistical tasks, the specifics of medical care must be taken into account.
+**Datenbanken_Projekt**
+
+
+Backup von alle SQL Queries der Datenbanken Projekt des SoSe2023.
+
+**Concept and Use Case**
+
+
+ER Models and possible use case scenarios
+
+**Importing Data**
+
+
+Java programs and shell scripts for importing data from the Louvre website
+
+**PostgreSQL Queries**
+
+
+Creation and importation queries for the database
+
+**Wichtige Links**
+
+
+Wikidata Toolkit
+PostgreSQL
