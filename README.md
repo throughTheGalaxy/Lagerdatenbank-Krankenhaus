@@ -6,13 +6,12 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2023.
 ## Concept and Use Case
 
 
-ER Models and possible use case scenarios
-
+ER-Modell und mögliche Anwendungsszenarien
 
 ## PostgreSQL Queries
 
 
-Creation and importation queries for the database
+Erstellung und Import von Abfragen für die Datenbank
 
 ## Wichtige Links
 
